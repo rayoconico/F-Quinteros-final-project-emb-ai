@@ -2,5 +2,11 @@
   // Use IntelliSense to learn about possible attributes.
   // Hover to view descriptions of existing attributes.
   "version": "0.2.0",
+<<<<<<< HEAD
   "configurations": []
+=======
+  "configurations": [
+    
+  ]
+>>>>>>> fe5311dee5d7aa23c2b5ffb2543e29c634742265
 }
